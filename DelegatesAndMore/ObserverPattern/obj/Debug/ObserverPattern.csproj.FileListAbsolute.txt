@@ -1,0 +1,13 @@
+C:\Users\Sagie\source\repos\ChainDelegate\ObserverPattern\bin\Debug\ObserverPattern.exe.config
+C:\Users\Sagie\source\repos\ChainDelegate\ObserverPattern\bin\Debug\ObserverPattern.exe
+C:\Users\Sagie\source\repos\ChainDelegate\ObserverPattern\bin\Debug\ObserverPattern.pdb
+C:\Users\Sagie\source\repos\ChainDelegate\ObserverPattern\obj\Debug\ObserverPattern.csprojAssemblyReference.cache
+C:\Users\Sagie\source\repos\ChainDelegate\ObserverPattern\obj\Debug\ObserverPattern.exe
+C:\Users\Sagie\source\repos\ChainDelegate\ObserverPattern\obj\Debug\ObserverPattern.pdb
+C:\Users\Sagie\Documents\VSProjects\DelegatesAndMore\DelegatesAndMore\ObserverPattern\bin\Debug\ObserverPattern.exe.config
+C:\Users\Sagie\Documents\VSProjects\DelegatesAndMore\DelegatesAndMore\ObserverPattern\bin\Debug\ObserverPattern.exe
+C:\Users\Sagie\Documents\VSProjects\DelegatesAndMore\DelegatesAndMore\ObserverPattern\bin\Debug\ObserverPattern.pdb
+C:\Users\Sagie\Documents\VSProjects\DelegatesAndMore\DelegatesAndMore\ObserverPattern\obj\Debug\ObserverPattern.csprojAssemblyReference.cache
+C:\Users\Sagie\Documents\VSProjects\DelegatesAndMore\DelegatesAndMore\ObserverPattern\obj\Debug\ObserverPattern.csproj.CoreCompileInputs.cache
+C:\Users\Sagie\Documents\VSProjects\DelegatesAndMore\DelegatesAndMore\ObserverPattern\obj\Debug\ObserverPattern.exe
+C:\Users\Sagie\Documents\VSProjects\DelegatesAndMore\DelegatesAndMore\ObserverPattern\obj\Debug\ObserverPattern.pdb

@@ -1,0 +1,7 @@
+C:\Users\Sagie\Documents\VSProjects\DelegatesAndMore\DelegatesAndMore\ComplexClosures\bin\Debug\ComplexClosures.exe.config
+C:\Users\Sagie\Documents\VSProjects\DelegatesAndMore\DelegatesAndMore\ComplexClosures\bin\Debug\ComplexClosures.exe
+C:\Users\Sagie\Documents\VSProjects\DelegatesAndMore\DelegatesAndMore\ComplexClosures\bin\Debug\ComplexClosures.pdb
+C:\Users\Sagie\Documents\VSProjects\DelegatesAndMore\DelegatesAndMore\ComplexClosures\obj\Debug\SeperatedActions.csprojAssemblyReference.cache
+C:\Users\Sagie\Documents\VSProjects\DelegatesAndMore\DelegatesAndMore\ComplexClosures\obj\Debug\SeperatedActions.csproj.CoreCompileInputs.cache
+C:\Users\Sagie\Documents\VSProjects\DelegatesAndMore\DelegatesAndMore\ComplexClosures\obj\Debug\ComplexClosures.exe
+C:\Users\Sagie\Documents\VSProjects\DelegatesAndMore\DelegatesAndMore\ComplexClosures\obj\Debug\ComplexClosures.pdb

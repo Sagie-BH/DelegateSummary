@@ -1,0 +1,6 @@
+C:\Users\Sagie\Documents\VSProjects\DelegatesAndMore\DelegatesAndMore\DelegatePrac\bin\Debug\DelegatePrac.exe.config
+C:\Users\Sagie\Documents\VSProjects\DelegatesAndMore\DelegatesAndMore\DelegatePrac\bin\Debug\DelegatePrac.exe
+C:\Users\Sagie\Documents\VSProjects\DelegatesAndMore\DelegatesAndMore\DelegatePrac\bin\Debug\DelegatePrac.pdb
+C:\Users\Sagie\Documents\VSProjects\DelegatesAndMore\DelegatesAndMore\DelegatePrac\obj\Debug\DelegatePrac.csproj.CoreCompileInputs.cache
+C:\Users\Sagie\Documents\VSProjects\DelegatesAndMore\DelegatesAndMore\DelegatePrac\obj\Debug\DelegatePrac.exe
+C:\Users\Sagie\Documents\VSProjects\DelegatesAndMore\DelegatesAndMore\DelegatePrac\obj\Debug\DelegatePrac.pdb

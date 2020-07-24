@@ -1,0 +1,7 @@
+C:\Users\Sagie\Documents\VSProjects\DelegatesAndMore\DelegatesAndMore\CompilerImplentationEvents\bin\Debug\CompilerImplentationEvents.exe.config
+C:\Users\Sagie\Documents\VSProjects\DelegatesAndMore\DelegatesAndMore\CompilerImplentationEvents\bin\Debug\CompilerImplentationEvents.exe
+C:\Users\Sagie\Documents\VSProjects\DelegatesAndMore\DelegatesAndMore\CompilerImplentationEvents\bin\Debug\CompilerImplentationEvents.pdb
+C:\Users\Sagie\Documents\VSProjects\DelegatesAndMore\DelegatesAndMore\CompilerImplentationEvents\obj\Debug\CompilerImplentationAction.csprojAssemblyReference.cache
+C:\Users\Sagie\Documents\VSProjects\DelegatesAndMore\DelegatesAndMore\CompilerImplentationEvents\obj\Debug\CompilerImplentationAction.csproj.CoreCompileInputs.cache
+C:\Users\Sagie\Documents\VSProjects\DelegatesAndMore\DelegatesAndMore\CompilerImplentationEvents\obj\Debug\CompilerImplentationEvents.exe
+C:\Users\Sagie\Documents\VSProjects\DelegatesAndMore\DelegatesAndMore\CompilerImplentationEvents\obj\Debug\CompilerImplentationEvents.pdb

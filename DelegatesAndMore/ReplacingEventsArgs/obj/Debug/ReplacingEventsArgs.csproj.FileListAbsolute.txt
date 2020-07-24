@@ -1,0 +1,7 @@
+C:\Users\Sagie\Documents\VSProjects\DelegatesAndMore\DelegatesAndMore\ReplacingEventsArgs\bin\Debug\ReplacingEventsArgs.exe.config
+C:\Users\Sagie\Documents\VSProjects\DelegatesAndMore\DelegatesAndMore\ReplacingEventsArgs\bin\Debug\ReplacingEventsArgs.exe
+C:\Users\Sagie\Documents\VSProjects\DelegatesAndMore\DelegatesAndMore\ReplacingEventsArgs\bin\Debug\ReplacingEventsArgs.pdb
+C:\Users\Sagie\Documents\VSProjects\DelegatesAndMore\DelegatesAndMore\ReplacingEventsArgs\obj\Debug\ReplacingEventsArgs.csprojAssemblyReference.cache
+C:\Users\Sagie\Documents\VSProjects\DelegatesAndMore\DelegatesAndMore\ReplacingEventsArgs\obj\Debug\ReplacingEventsArgs.csproj.CoreCompileInputs.cache
+C:\Users\Sagie\Documents\VSProjects\DelegatesAndMore\DelegatesAndMore\ReplacingEventsArgs\obj\Debug\ReplacingEventsArgs.exe
+C:\Users\Sagie\Documents\VSProjects\DelegatesAndMore\DelegatesAndMore\ReplacingEventsArgs\obj\Debug\ReplacingEventsArgs.pdb

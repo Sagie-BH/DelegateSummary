@@ -1,0 +1,7 @@
+C:\Users\Sagie\Documents\VSProjects\DelegatesAndMore\DelegatesAndMore\ClosuresAndActions\bin\Debug\ClosuresAndActions.exe.config
+C:\Users\Sagie\Documents\VSProjects\DelegatesAndMore\DelegatesAndMore\ClosuresAndActions\bin\Debug\ClosuresAndActions.exe
+C:\Users\Sagie\Documents\VSProjects\DelegatesAndMore\DelegatesAndMore\ClosuresAndActions\bin\Debug\ClosuresAndActions.pdb
+C:\Users\Sagie\Documents\VSProjects\DelegatesAndMore\DelegatesAndMore\ClosuresAndActions\obj\Debug\LambdaAndActions.csprojAssemblyReference.cache
+C:\Users\Sagie\Documents\VSProjects\DelegatesAndMore\DelegatesAndMore\ClosuresAndActions\obj\Debug\LambdaAndActions.csproj.CoreCompileInputs.cache
+C:\Users\Sagie\Documents\VSProjects\DelegatesAndMore\DelegatesAndMore\ClosuresAndActions\obj\Debug\ClosuresAndActions.exe
+C:\Users\Sagie\Documents\VSProjects\DelegatesAndMore\DelegatesAndMore\ClosuresAndActions\obj\Debug\ClosuresAndActions.pdb

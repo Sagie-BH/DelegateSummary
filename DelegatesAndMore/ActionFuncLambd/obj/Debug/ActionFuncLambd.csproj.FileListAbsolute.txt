@@ -1,0 +1,7 @@
+C:\Users\Sagie\Documents\VSProjects\DelegatesAndMore\DelegatesAndMore\ActionFuncLambd\bin\Debug\ActionFuncLambd.exe.config
+C:\Users\Sagie\Documents\VSProjects\DelegatesAndMore\DelegatesAndMore\ActionFuncLambd\bin\Debug\ActionFuncLambd.exe
+C:\Users\Sagie\Documents\VSProjects\DelegatesAndMore\DelegatesAndMore\ActionFuncLambd\bin\Debug\ActionFuncLambd.pdb
+C:\Users\Sagie\Documents\VSProjects\DelegatesAndMore\DelegatesAndMore\ActionFuncLambd\obj\Debug\ActionFuncLambd.csprojAssemblyReference.cache
+C:\Users\Sagie\Documents\VSProjects\DelegatesAndMore\DelegatesAndMore\ActionFuncLambd\obj\Debug\ActionFuncLambd.csproj.CoreCompileInputs.cache
+C:\Users\Sagie\Documents\VSProjects\DelegatesAndMore\DelegatesAndMore\ActionFuncLambd\obj\Debug\ActionFuncLambd.exe
+C:\Users\Sagie\Documents\VSProjects\DelegatesAndMore\DelegatesAndMore\ActionFuncLambd\obj\Debug\ActionFuncLambd.pdb

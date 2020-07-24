@@ -1,0 +1,5 @@
+C:\Users\Sagie\source\repos\ChainDelegate\ComplexClosures\bin\Debug\ComplexClosures.exe.config
+C:\Users\Sagie\source\repos\ChainDelegate\ComplexClosures\bin\Debug\ComplexClosures.exe
+C:\Users\Sagie\source\repos\ChainDelegate\ComplexClosures\bin\Debug\ComplexClosures.pdb
+C:\Users\Sagie\source\repos\ChainDelegate\ComplexClosures\obj\Debug\ComplexClosures.exe
+C:\Users\Sagie\source\repos\ChainDelegate\ComplexClosures\obj\Debug\ComplexClosures.pdb

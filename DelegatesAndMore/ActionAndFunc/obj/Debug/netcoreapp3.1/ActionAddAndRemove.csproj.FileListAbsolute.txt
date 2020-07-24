@@ -1,0 +1,4 @@
+C:\Users\Sagie\Documents\VSProjects\DelegatesAndMore\DelegatesAndMore\ActionAndFunc\obj\Debug\netcoreapp3.1\ActionAddAndRemove.csprojAssemblyReference.cache
+C:\Users\Sagie\Documents\VSProjects\DelegatesAndMore\DelegatesAndMore\ActionAndFunc\obj\Debug\netcoreapp3.1\ActionAddAndRemove.AssemblyInfoInputs.cache
+C:\Users\Sagie\Documents\VSProjects\DelegatesAndMore\DelegatesAndMore\ActionAndFunc\obj\Debug\netcoreapp3.1\ActionAddAndRemove.AssemblyInfo.cs
+C:\Users\Sagie\Documents\VSProjects\DelegatesAndMore\DelegatesAndMore\ActionAndFunc\obj\Debug\netcoreapp3.1\ActionAddAndRemove.csproj.CoreCompileInputs.cache

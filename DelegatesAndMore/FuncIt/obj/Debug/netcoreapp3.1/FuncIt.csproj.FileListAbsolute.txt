@@ -1,0 +1,4 @@
+C:\Users\Sagie\Documents\VSProjects\DelegatesAndMore\DelegatesAndMore\FuncIt\obj\Debug\netcoreapp3.1\FuncIt.csprojAssemblyReference.cache
+C:\Users\Sagie\Documents\VSProjects\DelegatesAndMore\DelegatesAndMore\FuncIt\obj\Debug\netcoreapp3.1\FuncIt.AssemblyInfoInputs.cache
+C:\Users\Sagie\Documents\VSProjects\DelegatesAndMore\DelegatesAndMore\FuncIt\obj\Debug\netcoreapp3.1\FuncIt.AssemblyInfo.cs
+C:\Users\Sagie\Documents\VSProjects\DelegatesAndMore\DelegatesAndMore\FuncIt\obj\Debug\netcoreapp3.1\FuncIt.csproj.CoreCompileInputs.cache

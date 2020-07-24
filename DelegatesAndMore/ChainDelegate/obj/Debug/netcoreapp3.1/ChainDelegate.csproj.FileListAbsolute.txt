@@ -1,0 +1,4 @@
+C:\Users\Sagie\Documents\VSProjects\DelegatesAndMore\DelegatesAndMore\ChainDelegate\obj\Debug\netcoreapp3.1\ChainDelegate.csprojAssemblyReference.cache
+C:\Users\Sagie\Documents\VSProjects\DelegatesAndMore\DelegatesAndMore\ChainDelegate\obj\Debug\netcoreapp3.1\ChainDelegate.AssemblyInfoInputs.cache
+C:\Users\Sagie\Documents\VSProjects\DelegatesAndMore\DelegatesAndMore\ChainDelegate\obj\Debug\netcoreapp3.1\ChainDelegate.AssemblyInfo.cs
+C:\Users\Sagie\Documents\VSProjects\DelegatesAndMore\DelegatesAndMore\ChainDelegate\obj\Debug\netcoreapp3.1\ChainDelegate.csproj.CoreCompileInputs.cache

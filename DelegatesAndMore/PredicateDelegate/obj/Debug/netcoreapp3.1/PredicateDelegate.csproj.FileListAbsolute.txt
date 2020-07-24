@@ -1,0 +1,13 @@
+C:\Users\Sagie\Documents\VSProjects\DelegatesAndMore\DelegatesAndMore\PredicateDelegate\bin\Debug\netcoreapp3.1\PredicateDelegate.exe
+C:\Users\Sagie\Documents\VSProjects\DelegatesAndMore\DelegatesAndMore\PredicateDelegate\bin\Debug\netcoreapp3.1\PredicateDelegate.deps.json
+C:\Users\Sagie\Documents\VSProjects\DelegatesAndMore\DelegatesAndMore\PredicateDelegate\bin\Debug\netcoreapp3.1\PredicateDelegate.runtimeconfig.json
+C:\Users\Sagie\Documents\VSProjects\DelegatesAndMore\DelegatesAndMore\PredicateDelegate\bin\Debug\netcoreapp3.1\PredicateDelegate.runtimeconfig.dev.json
+C:\Users\Sagie\Documents\VSProjects\DelegatesAndMore\DelegatesAndMore\PredicateDelegate\bin\Debug\netcoreapp3.1\PredicateDelegate.dll
+C:\Users\Sagie\Documents\VSProjects\DelegatesAndMore\DelegatesAndMore\PredicateDelegate\bin\Debug\netcoreapp3.1\PredicateDelegate.pdb
+C:\Users\Sagie\Documents\VSProjects\DelegatesAndMore\DelegatesAndMore\PredicateDelegate\obj\Debug\netcoreapp3.1\PredicateDelegate.csprojAssemblyReference.cache
+C:\Users\Sagie\Documents\VSProjects\DelegatesAndMore\DelegatesAndMore\PredicateDelegate\obj\Debug\netcoreapp3.1\PredicateDelegate.AssemblyInfoInputs.cache
+C:\Users\Sagie\Documents\VSProjects\DelegatesAndMore\DelegatesAndMore\PredicateDelegate\obj\Debug\netcoreapp3.1\PredicateDelegate.AssemblyInfo.cs
+C:\Users\Sagie\Documents\VSProjects\DelegatesAndMore\DelegatesAndMore\PredicateDelegate\obj\Debug\netcoreapp3.1\PredicateDelegate.csproj.CoreCompileInputs.cache
+C:\Users\Sagie\Documents\VSProjects\DelegatesAndMore\DelegatesAndMore\PredicateDelegate\obj\Debug\netcoreapp3.1\PredicateDelegate.dll
+C:\Users\Sagie\Documents\VSProjects\DelegatesAndMore\DelegatesAndMore\PredicateDelegate\obj\Debug\netcoreapp3.1\PredicateDelegate.pdb
+C:\Users\Sagie\Documents\VSProjects\DelegatesAndMore\DelegatesAndMore\PredicateDelegate\obj\Debug\netcoreapp3.1\PredicateDelegate.genruntimeconfig.cache

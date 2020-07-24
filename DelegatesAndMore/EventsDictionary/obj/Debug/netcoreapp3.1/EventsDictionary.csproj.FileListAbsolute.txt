@@ -1,0 +1,13 @@
+C:\Users\Sagie\Documents\VSProjects\DelegatesAndMore\DelegatesAndMore\EventsDictionary\bin\Debug\netcoreapp3.1\EventsDictionary.exe
+C:\Users\Sagie\Documents\VSProjects\DelegatesAndMore\DelegatesAndMore\EventsDictionary\bin\Debug\netcoreapp3.1\EventsDictionary.deps.json
+C:\Users\Sagie\Documents\VSProjects\DelegatesAndMore\DelegatesAndMore\EventsDictionary\bin\Debug\netcoreapp3.1\EventsDictionary.runtimeconfig.json
+C:\Users\Sagie\Documents\VSProjects\DelegatesAndMore\DelegatesAndMore\EventsDictionary\bin\Debug\netcoreapp3.1\EventsDictionary.runtimeconfig.dev.json
+C:\Users\Sagie\Documents\VSProjects\DelegatesAndMore\DelegatesAndMore\EventsDictionary\bin\Debug\netcoreapp3.1\EventsDictionary.dll
+C:\Users\Sagie\Documents\VSProjects\DelegatesAndMore\DelegatesAndMore\EventsDictionary\bin\Debug\netcoreapp3.1\EventsDictionary.pdb
+C:\Users\Sagie\Documents\VSProjects\DelegatesAndMore\DelegatesAndMore\EventsDictionary\obj\Debug\netcoreapp3.1\EventsDictionary.csprojAssemblyReference.cache
+C:\Users\Sagie\Documents\VSProjects\DelegatesAndMore\DelegatesAndMore\EventsDictionary\obj\Debug\netcoreapp3.1\EventsDictionary.AssemblyInfoInputs.cache
+C:\Users\Sagie\Documents\VSProjects\DelegatesAndMore\DelegatesAndMore\EventsDictionary\obj\Debug\netcoreapp3.1\EventsDictionary.AssemblyInfo.cs
+C:\Users\Sagie\Documents\VSProjects\DelegatesAndMore\DelegatesAndMore\EventsDictionary\obj\Debug\netcoreapp3.1\EventsDictionary.csproj.CoreCompileInputs.cache
+C:\Users\Sagie\Documents\VSProjects\DelegatesAndMore\DelegatesAndMore\EventsDictionary\obj\Debug\netcoreapp3.1\EventsDictionary.dll
+C:\Users\Sagie\Documents\VSProjects\DelegatesAndMore\DelegatesAndMore\EventsDictionary\obj\Debug\netcoreapp3.1\EventsDictionary.pdb
+C:\Users\Sagie\Documents\VSProjects\DelegatesAndMore\DelegatesAndMore\EventsDictionary\obj\Debug\netcoreapp3.1\EventsDictionary.genruntimeconfig.cache
